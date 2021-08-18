@@ -1,1 +1,1 @@
-# SwiftAlgorithm
+# Swift 스터디
